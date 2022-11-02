@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Harry Potter Books</string>
+    <string name="Book1">1st Book</string>
+    <string name="Book2">2nd Book</string>
+    <string name="Book3">3rd Book</string>
+    <string name="Book4">4th Book</string>
+    <string name="Book5">5th Book</string>
+    <string name="Book6">6th Book</string>
+    <string name="Book7">7th Book</string>
+    <string name="philosoher">Harry Potter and the Philosophers Stone</string>
+    <string name="chamber">Harry Potter and the chamber of secrets</string>
+    <string name="prisoner">Harry Potter and the Prisoner of Azkaban</string>
+    <string name="goblet">Harry Potter and the Goblet of fire</string>
+    <string name="order">Harry Potter and the Order of Pheonix</string>
+    <string name="half">Harry Potter and the Half blood prince</string>
+    <string name="Deadly">Harry Potter and the Deadly Hallows</string>
+
+</resources>
